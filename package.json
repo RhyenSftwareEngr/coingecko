@@ -10,11 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.0",
-    "@mui/icons-material": "^7.1.2",
-    "@mui/material": "^7.1.2",
-    "@tailwindcss/vite": "^4.1.10",
     "bootstrap": "^5.3.7",
     "cors": "^2.8.5",
     "express": "^5.1.0",
