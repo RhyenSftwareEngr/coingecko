@@ -1,12 +1,14 @@
-# React + Vite
+# CryptoPeekBootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React dashboard for exploring cryptocurrencies, built with React 18, React-Bootstrap, and the CoinGecko API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React 18** for UI rendering
+- **React-Bootstrap 2.x** and **Bootstrap 5.x** for responsive components and layout
+- **CoinGecko API** for real-time crypto data
+- **React hooks** (`useState`, `useEffect`, `useMemo`) for state management and data fetching
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
